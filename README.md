@@ -1,4 +1,5 @@
 # Trendyol Süper Lig - Veritabanı Yönetim Sistemi (DBMS)
+![Database Diagram](trendyol%20superlig%20db%20diagram.png)
 
 Bu proje, Türkiye Süper Ligi'nin veri yapısını simüle eden, ilişkisel bütünlüğe (Relational Integrity) ve normalizasyon kurallarına (3NF) uygun olarak tasarlanmış kapsamlı bir **SQL Server** veritabanı projesidir.
 
